@@ -1,0 +1,403 @@
+{
+  "EVENTS" : {
+    "DAYS" : {
+      "READ001" : [ null, {
+        "code" : "DAY001",
+        "date" : "23.08.2019"
+      }, {
+        "code" : "DAY002",
+        "date" : "24.08.2019"
+      }, {
+        "code" : "DAY003",
+        "date" : "25.08.2019"
+      }, {
+        "code" : "DAY004",
+        "date" : "26.08.2019"
+      }, {
+        "code" : "DAY005",
+        "date" : "27.08.2019"
+      } ]
+    },
+    "EVENTCODE" : {
+      "Reading Festival 2019" : "READ001"
+    },
+    "EVENTS" : [ null, {
+      "name" : "Reading Festival 2019"
+    }, {
+      "name" : "Outlook Festival 2019"
+    }, {
+      "name" : "Glastonbury Festival 2019"
+    }, {
+      "name" : "Creamfields Festival 2019"
+    } ],
+    "LINEUP" : {
+      "READ001" : {
+        "DAY001" : [ null, {
+          "0" : {
+            "end" : 75,
+            "name" : "No Performer",
+            "start" : 0
+          },
+          "1" : {
+            "end" : 225,
+            "endtime" : "03:30",
+            "name" : "Devilman",
+            "start" : 75,
+            "starttime" : "01:00"
+          },
+          "2" : {
+            "end" : 405,
+            "endtime" : "06:30",
+            "name" : "SubFocus",
+            "start" : 225,
+            "starttime" : "03:40"
+          },
+          "3" : {
+            "end" : 615,
+            "endtime" : "10:00",
+            "name" : "Maduk",
+            "start" : 405,
+            "starttime" : "06:30"
+          },
+          "4" : {
+            "end" : 765,
+            "endtime" : "12:30",
+            "name" : "Shy FX",
+            "start" : 615,
+            "starttime" : "10:00"
+          },
+          "5" : {
+            "end" : 825,
+            "endtime" : "13:30",
+            "name" : "Mohican Sun",
+            "start" : 765,
+            "starttime" : "12:30"
+          },
+          "6" : {
+            "end" : 885,
+            "endtime" : "14:30",
+            "name" : "Serum",
+            "start" : 825,
+            "starttime" : "13:30"
+          },
+          "7" : {
+            "end" : 975,
+            "endtime" : "16:00",
+            "name" : "Upgrade",
+            "start" : 885,
+            "starttime" : "14:30"
+          },
+          "8" : {
+            "end" : 1065,
+            "endtime" : "17:30",
+            "name" : "Voltage",
+            "start" : 975,
+            "starttime" : "16:00"
+          },
+          "9" : {
+            "end" : 1125,
+            "endtime" : "18:30",
+            "name" : "June Miller",
+            "start" : 1065,
+            "starttime" : "17:30"
+          },
+          "10" : {
+            "end" : 1245,
+            "endtime" : "20:30",
+            "name" : "Break",
+            "start" : 1125,
+            "starttime" : "18:30"
+          },
+          "11" : {
+            "end" : 1365,
+            "endtime" : "22:30",
+            "name" : "Dimension",
+            "start" : 1245,
+            "starttime" : "20:30"
+          },
+          "z" : {
+            "end" : 1470,
+            "name" : "No Performer",
+            "start" : 1365
+          }
+        }, {
+          "0" : {
+            "end" : 645,
+            "name" : "No Performer",
+            "start" : 0
+          },
+          "1" : {
+            "end" : 735,
+            "enddime" : "12:00",
+            "name" : "Stan SB",
+            "start" : 645,
+            "starttime" : "10:30"
+          },
+          "2" : {
+            "end" : 765,
+            "endttime" : "12:30",
+            "name" : "Monnrroe",
+            "start" : 735,
+            "starttime" : "12:00"
+          },
+          "3" : {
+            "end" : 795,
+            "endtime" : "13:00",
+            "name" : "Flux Pavillion",
+            "start" : 765,
+            "starttime" : "12:30"
+          },
+          "4" : {
+            "end" : 825,
+            "endtime" : "13:30",
+            "name" : "Fred V & Grafix",
+            "start" : 795,
+            "startime" : "13:00"
+          },
+          "5" : {
+            "end" : 855,
+            "endtime" : "14:00",
+            "name" : "Sub Zero B2B Limited (Fatman D)",
+            "start" : 825,
+            "starttime" : "13:30"
+          },
+          "6" : {
+            "end" : 975,
+            "endtime" : "16:00",
+            "name" : "Kings Of The Rollers",
+            "start" : 855,
+            "starttime" : "14:00"
+          },
+          "7" : {
+            "end" : 1095,
+            "endtime" : "18:00",
+            "name" : "Alix Perez & Monty",
+            "start" : 1005,
+            "starttime" : "16:30"
+          },
+          "8" : {
+            "end" : 1185,
+            "endtime" : "19:30",
+            "name" : "Pola & Bryson",
+            "start" : 1095,
+            "starttime" : "18:00"
+          },
+          "9" : {
+            "end" : 1365,
+            "endtime" : "22:30",
+            "name" : "Calyx & Teebee",
+            "start" : 1185,
+            "starttime" : "19:30"
+          },
+          "z" : {
+            "end" : 1470,
+            "name" : "No Performer",
+            "start" : 1335
+          }
+        }, {
+          "0" : {
+            "end" : 705,
+            "name" : "No Performer",
+            "start" : 0
+          },
+          "1" : {
+            "end" : 765,
+            "endtime" : "12:30",
+            "name" : "Mampi Swift",
+            "start" : 705,
+            "starttime" : "11:30"
+          },
+          "2" : {
+            "end" : 855,
+            "endtime" : "14:00",
+            "name" : "Keeno",
+            "start" : 765,
+            "starttime" : "12:30"
+          },
+          "3" : {
+            "end" : 975,
+            "endtime" : "16:00",
+            "name" : "LSB",
+            "start" : 855,
+            "starttime" : "14:00"
+          },
+          "4" : {
+            "end" : 1065,
+            "endtime" : "17:30",
+            "name" : "Spectrasoul",
+            "start" : 975,
+            "starttime" : "16:00"
+          },
+          "5" : {
+            "end" : 1185,
+            "endtime" : "19:30",
+            "name" : "Lenzman",
+            "start" : 1065,
+            "starttime" : "17:30"
+          },
+          "6" : {
+            "end" : 1275,
+            "endtime" : "21:00",
+            "name" : "Children Of Zeus (feat. DRS)",
+            "start" : 1185,
+            "starttime" : "19:30"
+          },
+          "z" : {
+            "end" : 1470,
+            "name" : "No Performer",
+            "start" : 1275
+          }
+        }, {
+          "0" : {
+            "end" : 735,
+            "name" : "No Performer",
+            "start" : 0
+          },
+          "1" : {
+            "end" : 825,
+            "endtime" : "13:30",
+            "name" : "Prototypes",
+            "start" : 735,
+            "starttime" : "12:00"
+          },
+          "2" : {
+            "end" : 885,
+            "endtime" : "14:30",
+            "name" : "Mackey Gee",
+            "start" : 825,
+            "starttime" : "13:30"
+          },
+          "3" : {
+            "end" : 975,
+            "endtime" : 975,
+            "name" : "Original Sin",
+            "start" : 885,
+            "starttime" : "14:30"
+          },
+          "4" : {
+            "end" : 1095,
+            "endtime" : "18:00",
+            "name" : "Modified Motion",
+            "start" : 975,
+            "starttime" : "16:00"
+          },
+          "5" : {
+            "end" : 1185,
+            "endtime" : "19:30",
+            "name" : "Heist",
+            "start" : 1095,
+            "starttime" : "18:00"
+          },
+          "6" : {
+            "end" : 1275,
+            "endtime" : "19:30",
+            "name" : "Hazard",
+            "start" : 1185,
+            "starttime" : "19:30"
+          },
+          "z" : {
+            "end" : 1470,
+            "name" : "No Performer",
+            "start" : 1275
+          }
+        } ],
+        "DAY002" : [ null, {
+          "0" : {
+            "end" : 975,
+            "name" : "No Performer",
+            "start" : 0
+          },
+          "1" : {
+            "end" : 1065,
+            "endtime" : "17:30",
+            "name" : "London Elektricity",
+            "start" : 975,
+            "starttime" : "16:00"
+          },
+          "2" : {
+            "end" : 1125,
+            "endtime" : "18:30",
+            "name" : "Rameses B",
+            "start" : 1065,
+            "starttime" : "17:30"
+          },
+          "3" : {
+            "end" : 1215,
+            "endtime" : "20:00",
+            "name" : "Liquid V",
+            "start" : 1125,
+            "starttime" : "18:30"
+          },
+          "4" : {
+            "end" : 1275,
+            "endtime" : "21:00",
+            "name" : "Dossa & Locuzzed",
+            "start" : 1215,
+            "starttime" : "20:00"
+          },
+          "z" : {
+            "end" : 1470,
+            "name" : "No Performer",
+            "start" : 1275
+          }
+        }, {
+          "0" : {
+            "end" : 500,
+            "name" : "No Performer",
+            "start" : 0
+          },
+          "1" : {
+            "end" : 800,
+            "name" : "no idea",
+            "start" : 500
+          },
+          "z" : {
+            "end" : 1470,
+            "name" : "No Performer",
+            "start" : 800
+          }
+        }, {
+          "0" : {
+            "end" : 500,
+            "name" : "No Performer",
+            "start" : 0
+          },
+          "1" : {
+            "end" : 1450,
+            "name" : "no idea again",
+            "start" : 500
+          },
+          "z" : {
+            "end" : 1470,
+            "name" : "No Performer",
+            "start" : 1450
+          }
+        }, {
+          "0" : {
+            "end" : 975,
+            "name" : "No Performer",
+            "start" : 0
+          },
+          "1" : {
+            "end" : 1275,
+            "name" : "final no idea",
+            "start" : 975
+          },
+          "z" : {
+            "end" : 1470,
+            "name" : "No Performer",
+            "start" : 1275
+          }
+        } ]
+      }
+    },
+    "STAGE" : {
+      "READ001" : [ null, "Main Stage", "Second Stage", "Third Stage", "Fourth Stage" ]
+    }
+  },
+  "URL" : {
+    "tickets" : {
+      "READ001" : "https://www.readingfestival.com/tickets"
+    }
+  }
+}
